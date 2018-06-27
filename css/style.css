@@ -5,12 +5,21 @@
   font-weight: normal;
   font-style: normal;
 }
-/* =======================================================
-*
-* 	Template Style 
-*	Edit this section
-*
-* ======================================================= */
+/*main css*/
+
+.top-1 ul li{
+  list-style: none;
+  display: inline;
+  padding: 5px;
+}
+.top-1{
+  position: relative;
+  float: left;
+  width: 100%;
+}
+
+
+
 body {
   font-family: "Raleway", Arial, sans-serif;
   line-height: 1.6;
